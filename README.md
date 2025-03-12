@@ -11,10 +11,10 @@ This project implements a **Real-Time Zero Trust Network Security System** lever
 - **Continuous Network Monitoring**: Detects and mitigates unauthorized access attempts and potential breaches in real time.
 
 ## Technology Stack
-- **LLMs**: GPT, BERT, or domain-specific transformer models for analyzing real-time network logs.
-- **Blockchain/Ledger Storage**: Hyperledger, Ethereum, or Tendermint for immediate and immutable security logs.
+- **LLMs**: GPT for analyzing real-time network logs.
+- **Blockchain/Ledger Storage**: Hyperledger and Tendermint for immediate and immutable security logs.
 - **SDN (Software-Defined Networking)**: OpenFlow-based SDN controller for dynamic rule enforcement.
-- **Datastores**: Redis, Apache Kafka, or other real-time NoSQL solutions for efficient data handling.
+- **Datastores**: Redis & Apache Kafka or other real-time NoSQL solutions for efficient data handling.
 - **Containerization**: Docker & Kubernetes for deployment and scaling.
 - **Monitoring**: Prometheus & Grafana for real-time analytics and alerting.
 
